@@ -1,0 +1,10 @@
+# Virtual environment (do not upload)
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Optional: Ignore generated output data
+# books_scraped.csv
